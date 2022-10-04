@@ -8,7 +8,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="LocalNugetPackageExample" Version="1.0.0" />
+      <PackageReference Include="LocalNugetPackageExample" Version="0.1.2-PullRequest0001.4" />
     </ItemGroup>
 
 </Project>
